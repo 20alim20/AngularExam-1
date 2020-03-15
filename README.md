@@ -15,8 +15,8 @@ Run the Frontend----------------
 3. ng serve
 
 Hardcoded login-----------------
-username: admin
-password: 12345
+1. username: admin
+2. password: 12345
 
 *After logging in this should redirect you to an employee list. 
 You can add, edit, delete employees
